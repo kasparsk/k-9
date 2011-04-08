@@ -1,4 +1,3 @@
-
 package com.fsck.k9;
 
 import java.io.File;
@@ -34,7 +33,7 @@ import com.fsck.k9.service.BootReceiver;
 import com.fsck.k9.service.MailService;
 import com.fsck.k9.service.ShutdownReceiver;
 import com.fsck.k9.service.StorageGoneReceiver;
-
+/** Kaspars Kalnins - comment for GSOC 2011 */
 public class K9 extends Application {
     /**
      * Components that are interested in knowing when the K9 instance is
